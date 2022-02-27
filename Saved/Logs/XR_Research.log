@@ -1709,3 +1709,42 @@ LogConfig: CVar [[QualityLevelMapping:high]] deferred - dummy variable created
 [2022.02.27-00.19.48:039][790]UATHelper: Packaging (Windows): The system cannot find the path specified.
 [2022.02.27-00.19.56:687][359]LogSlate: Window 'Output Log' being destroyed
 [2022.02.27-00.19.56:689][359]LogSlate: Window 'Output Log' being destroyed
+[2022.02.27-00.29.45:503][ 22]LogUObjectHash: Compacting FUObjectHashTables data took   2.03ms
+[2022.02.27-00.29.45:504][ 22]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/00_VRResearch/Maps/VRResearchTest' took 0.075
+[2022.02.27-00.29.45:505][ 22]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/00_VRResearch/VR/VR_Pawn] ([2] browsable assets)...
+[2022.02.27-00.29.45:505][ 22]OBJ SavePackage: Finished generating thumbnails for package [/Game/00_VRResearch/VR/VR_Pawn]
+[2022.02.27-00.29.45:513][ 22]LogPackageLocalizationCache: Processed 39 localized package path(s) for 1 prioritized culture(s) in 0.007890 seconds
+[2022.02.27-00.29.45:519][ 22]LogSavePackage: Moving output files for package: /Temp/Autosaves/Game/00_VRResearch/VR/VR_Pawn_Auto1
+[2022.02.27-00.29.45:519][ 22]LogSavePackage: Moving '../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Saved/VR_Pawn_Auto1D027FF03422096F0C19A3486C7547794.tmp' to '../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Saved/Autosaves/Game/00_VRResearch/VR/VR_Pawn_Auto1.uasset'
+[2022.02.27-00.29.45:519][ 22]LogFileHelpers: Auto-saving content packages took 0.015
+[2022.02.27-00.29.50:237][281]BlueprintLog: New page: Compile VR_Pawn
+[2022.02.27-00.29.50:305][281]LogUObjectHash: Compacting FUObjectHashTables data took   1.63ms
+[2022.02.27-00.29.50:673][318]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/00_VRResearch/VR/VR_Pawn" FILE="../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Content/00_VRResearch/VR/VR_Pawn.uasset" SILENT=true
+[2022.02.27-00.29.50:678][318]LogSavePackage: Moving output files for package: /Game/00_VRResearch/VR/VR_Pawn
+[2022.02.27-00.29.50:678][318]LogSavePackage: Moving '../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Saved/VR_Pawn075D51D44B87FDF170BE74896775B9AE.tmp' to '../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Content/00_VRResearch/VR/VR_Pawn.uasset'
+[2022.02.27-00.29.50:689][318]AssetCheck: New page: Asset Save: VR_Pawn
+[2022.02.27-00.29.50:690][318]LogContentValidation: Display: Validating Blueprint /Game/00_VRResearch/VR/VR_Pawn.VR_Pawn
+[2022.02.27-00.30.40:360][928]BlueprintLog: New page: Compile VR_Pawn
+[2022.02.27-00.30.40:410][928]LogUObjectHash: Compacting FUObjectHashTables data took   1.73ms
+[2022.02.27-00.30.40:841][974]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/00_VRResearch/VR/VR_Pawn" FILE="../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Content/00_VRResearch/VR/VR_Pawn.uasset" SILENT=true
+[2022.02.27-00.30.40:846][974]LogSavePackage: Moving output files for package: /Game/00_VRResearch/VR/VR_Pawn
+[2022.02.27-00.30.40:847][974]LogSavePackage: Moving '../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Saved/VR_Pawn4C20D9A74B85940687566586F5E45BF3.tmp' to '../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Content/00_VRResearch/VR/VR_Pawn.uasset'
+[2022.02.27-00.30.40:857][974]AssetCheck: New page: Asset Save: VR_Pawn
+[2022.02.27-00.30.40:857][974]LogContentValidation: Display: Validating Blueprint /Game/00_VRResearch/VR/VR_Pawn.VR_Pawn
+[2022.02.27-00.31.13:522][ 95]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/00_VRResearch/VR/VR_Character.VR_Character
+[2022.02.27-00.31.13:523][ 95]LogChaos: FPhysicsSolverBase::AsyncDt:-1.000000
+[2022.02.27-00.32.12:588][177]BlueprintLog: New page: Compile VR_Pawn
+[2022.02.27-00.32.12:643][177]LogUObjectHash: Compacting FUObjectHashTables data took   1.59ms
+[2022.02.27-00.32.13:024][217]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/00_VRResearch/VR/VR_Pawn" FILE="../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Content/00_VRResearch/VR/VR_Pawn.uasset" SILENT=true
+[2022.02.27-00.32.13:029][217]LogSavePackage: Moving output files for package: /Game/00_VRResearch/VR/VR_Pawn
+[2022.02.27-00.32.13:029][217]LogSavePackage: Moving '../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Saved/VR_PawnD16CECF94F605F6CF98BF288AA0FFB1B.tmp' to '../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Content/00_VRResearch/VR/VR_Pawn.uasset'
+[2022.02.27-00.32.13:039][217]AssetCheck: New page: Asset Save: VR_Pawn
+[2022.02.27-00.32.13:039][217]LogContentValidation: Display: Validating Blueprint /Game/00_VRResearch/VR/VR_Pawn.VR_Pawn
+[2022.02.27-00.32.14:115][346]BlueprintLog: New page: Compile VR_Character
+[2022.02.27-00.32.14:168][346]LogUObjectHash: Compacting FUObjectHashTables data took   1.49ms
+[2022.02.27-00.32.14:602][391]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/00_VRResearch/VR/VR_Character" FILE="../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Content/00_VRResearch/VR/VR_Character.uasset" SILENT=true
+[2022.02.27-00.32.14:606][391]LogSavePackage: Moving output files for package: /Game/00_VRResearch/VR/VR_Character
+[2022.02.27-00.32.14:606][391]LogSavePackage: Moving '../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Saved/VR_CharacterFED6CA144251978B6C3FC6AD12C48228.tmp' to '../../../../../../Users/mlaru/Documents/Unreal Projects/XR_Research/Content/00_VRResearch/VR/VR_Character.uasset'
+[2022.02.27-00.32.14:617][391]AssetCheck: New page: Asset Save: VR_Character
+[2022.02.27-00.32.14:617][391]LogContentValidation: Display: Validating Blueprint /Game/00_VRResearch/VR/VR_Character.VR_Character
+[2022.02.27-00.32.16:071][558]LogSlate: Window 'VR_Pawn' being destroyed
